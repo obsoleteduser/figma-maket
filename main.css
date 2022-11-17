@@ -133,6 +133,7 @@ input[type="email"], input[type="password"]{
 }
 
 .login-options{
+    width: 17rem;
     display: flex;
     gap: 0 .3rem;
     justify-content: space-between;
@@ -147,4 +148,8 @@ a{
 img{
     width: 2rem;
     height: 2rem;
+}
+
+.remember{
+    margin-right: auto;
 }
